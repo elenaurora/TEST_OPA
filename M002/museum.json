@@ -1,7 +1,7 @@
 { 
    "en":{
          "id":"M002",
-         "version": 12,         
+         "version": 13,         
          "uuid": "aaaaaaaa-bbbb-cccc-dddd-eeeeeeeeeeee",
          "name":"Square of Miracles",
          "gallery":["museo_benabbio_2.jpg", "museo_benabbio_3.jpg", "museo_benabbio_4.jpg"],
