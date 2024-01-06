@@ -1,7 +1,7 @@
 {
    "en":{
          "id":"M001",
-         "version": 11,
+         "version": 12,
          "uuid": "aaaaaa11-bbbb-cccc-dddd-eeeeeeeeeeee",
          "name":"San Cassiano Museum",
          "gallery":[ "museo_SC_1.jpg","museo_SC_2.jpg","museo_SC_3.jpg","museo_SC_4.jpg"],
