@@ -4,15 +4,15 @@
         {
             "id": "M002",
             "version": 12,
-            "name": "Benabbio",
-            "location" : "Benabbio",
+            "name": "Piazza dei Miracoli",
+            "location" : "Piazza dei Miracoli",
             "coordinates": [10.603375652061544, 43.99854668885396]
         },
         {
             "id": "M001",
             "version": 11,
-            "name": "San Cassiano",
-            "location" : "San Cassiano",
+            "name": "Museo OPA",
+            "location" : "Museo OPA",
             "coordinates": [10.634381, 44.037471]
         }
     ]
