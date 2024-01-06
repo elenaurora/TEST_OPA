@@ -11,8 +11,8 @@
         {
             "id": "M001",
             "version": 11,
-            "name": "Museo OPA",
-            "location" : "Museo OPAl",
+            "name": "Museo OPAl",
+            "location" : "Museo OPA",
             "coordinates": [10.634381, 44.037471]
         }
     ]
