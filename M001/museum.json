@@ -1,0 +1,170 @@
+{
+   "en":{
+         "id":"M001",
+         "version": 11,
+         "uuid": "aaaaaa11-bbbb-cccc-dddd-eeeeeeeeeeee",
+         "name":"San Cassiano Museum",
+         "gallery":[ "museo_SC_1.jpg","museo_SC_2.jpg","museo_SC_3.jpg","museo_SC_4.jpg"],
+         "description":"The Parish Museum of San Cassiano di Controne is housed within the oratory that was once the headquarters of the Confraternity of the Blessed Sacrament and Name of Jesus. An epigraph under the eaves along its north side is inscribed with the year MDCVII (A.D. 1607). The first document in which the oratory is mentioned is dated January 19, 1658, when the confraternity met to decide about the building of the altar. Typical for minor religious buildings, it is a rectangular plan with the major axis facing west, the side on which the altar is located. The gabled facade is plastered except for the ashlars - the large square-cut stones adorning the corners of the building. In its center is the portal framed in sandstone and surmounted by an oculus. During the 1990s, the Parish of San Cassiano di Controne began a project to restore the building with the aim of displaying the important equestrian group attributed to Jacopo della Quercia, housed at the time in the rectory, along with several other works of art belonging to the church. On August 13, 2012, the exhibition space was inaugurated and in March 2018, it was designated a parish museum.",
+         "artworks":[
+            {
+               "id":"0001",
+               "major": 1,
+               "minors": [1],
+               "shortTitle":"Ceramic",
+               "title":"Ceramic Bowl with figure of falconer on horseback",
+               "author":"Sicilian or Tunisian Islamic production",
+               "year": "Late 10th century-first half of 11th century",
+               "description":"The ceramic bowl or bacino that adorns the facade of the Church of San Cassiano di Controne was removed and replaced by a copy in 1975. In a fragmentary state, it features green and brown decorative motifs. The figure displayed at the center depicts a falconer riding his horse with his bent arm raised to support the falcon. Bacini decoration was used to enrich masonry structures with chromatic touches. They were more durable than wall paintings and cheaper than polychrome stone inlays or mosaics that called for skilled craftsmen to produce. The circulation of ceramic wares was common throughout the Tyrrhenian, an area comprising central Italy and extending to Sicily, Corsica, and Sardinia. Their importation to Lucca from possibly Sicily or Tunisia may have occurred by way of Pisa, whose contacts with the Islamic world date to at least the 10th century. Decorating church facades with ceramics was in wide use, but motifs rarely depicted the human figure. This makes the bacino of San Cassiano an example of particularly high-quality craftsmanship.",
+               "gallery":[ "0001/01.jpg", "0001/02.jpg", "0001/03.jpg"]
+            },
+            {
+               "id":"0002",
+               "major": 2,
+               "minors": [1],
+               "shortTitle":"Cross",
+               "title":"Processional Cross",
+               "author":"Artist unknown",
+               "year": "Late 14th century-first half of the 15th century",
+               "description":"The processional cross is made of embossed, chiseled, and gilded silver. The figure of Christ, in the round, made of several embossed parts welded together, is fixed on a cross decorated with a flowering vine of translucent purple, blue, green, and yellow enamels. On either side of Christ are the Virgin Mary and St. John the Evangelist Mourning; at the top, the Eternal Father, at the bottom, St. Peter (or St. Leonard). On the opposite side, in the center, is the Mystic Lamb, and on the sides, the symbols of the evangelists (the bull, symbol of Luke; the eagle, symbol of John; the lion symbol of Mark; and the angel, symbol of Matthew). Between the figures of the lamb and the angel, is a saint with a book. Among the many crosses of the same period found in churches in the area, the processional cross of San Cassiano is considered a unique example of Nordic influences in and around Lucca, likely the result of the presence of craftsmen from beyond the Alps.",
+               "gallery":["0002/01.jpg", "0002/02.jpg","0002/03.jpg"]
+            },
+            {
+               "id":"0003",
+               "major": 3,
+               "minors": [1],
+               "shortTitle":"Annunciation",
+               "title":"The Annunciation",
+               "author":"Master of San Cassiano",
+               "year": "First half of the 14th century",
+               "description":"The unknown artist of The Annunciation is conventionally called the Master of San Cassiano. The sculptural group, made of poplar wood, was discovered by Carlo Lodovico Ragghianti in 1908. It is considered the first example in which the French Gothic ideal of beauty represented by a 'sweet' smile that 'barely ruffles the lips', also called the sourire de Reims, is used by a sculptor in Tuscany. In 1918, the work was sent to Florence for restoration and returned to San Cassiano in June 1920 with significant additions of plaster and wood to both statues, particularly in the drapery of the Angel's right forearm. The figures were restored a second time between 1994 and 1995, this time areas of antique if not original color were restored: a red robe with blue, black, and gold decorations, a white cloak with gold borders, and gilded hair.",
+               "gallery":["0003/01.jpg", "0003/02.jpg","0003/03.jpg","0003/04.jpg","0003/05.jpg"]
+            },
+            {
+               "id":"0004",
+               "major": 4,
+               "minors": [1],
+               "shortTitle":"Horseback",
+               "title":"St. Martin on Horseback",
+               "author":"Attributed to Jacopo della Quercia",
+               "year": "First decade of the 15th century",
+               "description":"The sculptural group, made of linden wood, was discovered in 1909 with the two statues of 'The Annunciation' in a room below the oratory covered by twigs and branches. The work is one of few wooden sculptural examples of horse and rider to have survived from the Middle Ages. Attributed to Jacopo della Quercia, it dates from the first decade of the 15th century, between Jacopo’s execution of the tomb of Ilaria del Carretto and the Trenta family polyptych in the Church of San Frediano, both in Lucca. Upon its discovery, the figure was first believed to be of St. Martin on horseback, then of St. Ansanus, and finally of St. Cassiano. The only correct identification based on the statue’s iconography is that of St. Martin, with his horse, sword and cloak, evident from the details brought forth by the restoration and supported by multiple examples in Tuscany of representations of the saint made around the mid-14th century: the figure is depicted clothed in a red cloak lined with fur. Legend holds, while travelling on horseback, St. Martin comes upon a beggar, naked and cold, and cuts his cloak in half to share it with him. ",
+               "gallery":["0004/01.jpg","0004/02.jpg","0004/03.jpg","0004/04.jpg"]
+            },
+            {
+               "id":"0005",
+               "major": 5,
+               "minors": [1],
+               "shortTitle":"Church",
+               "title":"Church of San Cassiano di Controne",
+               "author":"-",
+               "year": "-",
+               "description":"The Church of San Cassiano di Controne is the earliest historically documented church in the Lima Valley, dating to A.D. 772. The present building is the result of the enlargement of an earlier church of which traces remain outside. The extension incorporated within the building’s perimeter is evidenced by an engraving on a cornerstone, and occupies the entire front left corner, and large bell tower built in A.D. 1030. The building has a basilica-type layout with three naves, ordinarily seen in parish churches. In addition to having undergone few alterations, the building in its Romanesque configuration has a vast repertoire of carved ornamental motifs, an original tarsia floor, and a ceramic basin of Islamic origins, dating to the 11th century walled at the top of the facade. At the center of the facade is the entrance or portal, decorated with zoomorphic and interwoven elements, surmounted by a lunette in which Moses is depicted praying with his arms raised during the battle against the Amalekites. In the biblical passage, it is said that as long as Moses was praying with his arms raised towards heaven Israel would prevail. Aaron and Hur support his arms until the sun set and victory was won.",
+               "gallery":["0005/01.jpg","0005/02.jpg","0005/03.jpg","0005/04.jpg","0005/05.jpg","0005/06.jpg","0005/07.jpg"]
+            },
+            {
+               "id":"0006",
+               "major": 6,
+               "minors": [1],
+               "shortTitle":"The floor",
+               "title":"Church floor",
+               "author":"-",
+               "year": "Second half of the 12th century",
+               "description":"There are two distinct floor levels in the church: an original one, datable to the second half of the 12th century, that extends from the façade to the height of the last two columns; the other raised floor that from the last two columns reaches the far side of the apse. The original marble inlay decoration differentiates the nave from the side aisles, emphasizing the longitudinal axis of the building. All geometric decorative elements, whether square-shaped such as chess boards, or circular, have symbolic implications. The chess boards placed at the entrance of the church refer to the perennial contrast between good and evil and serve to admonish the person who crosses the threshold.",
+               "gallery":["0006/01.jpg","0006/02.jpg","0006/03.jpg","0006/04.jpg"]
+            },{
+               "id":"0007",
+               "major": 7,
+               "minors": [1],
+               "shortTitle":"St. Ansanus",
+               "title":"St. Ansanus",
+               "author":"Attributed to Francesco di Valdambrino",
+               "year": "Early 15th century",
+               "description":"The restoration of the statue in the 1990s removed a thick layer of repainting, making it possible to recognize, through the details of the face, and the treatment of the hair and drapery, the style of the young sculptor, Francesco di Valdambrino. Active in Lucca where he trained and collaborated with Jacopo della Quercia in the early 15th century, Valdambrino’s signature, together with the date (A.D. 1403), are visible in another work by his hand, the “Madonna and Child in Palaia”. The close stylistic relationship between this latter work and the sculpture of St. Ansanus allows scholars to attribute this sculpture to Francesco di Valdambrino.",
+               "gallery":["0007/01.jpg"]
+            },
+            {
+               "id":"0008",
+               "major": 8,
+               "minors": [1],
+               "shortTitle":"Crucifix",
+               "title":"Crucifix",
+               "author":"Attributed to Francesco di Valdambrino",
+               "year": "Early 15th century",
+               "description":"The crucifix was discovered in the 1890s in poor condition and extensively repainted. Attributed to Francesco di Valdambrino, the work is considered to be of very high quality and an example of the sculptor reaching expressive maturity. It is included in the definitive catalog of sculptures made in Lucca by the artist between the end of the 14th century and the first decade of the 15th century. The intense naturalistic exploration evident in this crucifix distinguishes Valdambrino from other artists of the time.",
+               "gallery":["0008/01.jpg","0008/02.jpg","0008/03.jpg"]
+            }            
+         ]
+   },
+   "it":{
+      
+        "name":"Museo di San Cassiano",
+        "description":"Il MUdiC è ospitato entro l’oratorio che fu la sede della confraternita del Santissimo Sacramento e Nome di Gesù. Un’epigrafe posta sotto la gronda, che corre sul lato nord della chiesetta, riporta inciso l’anno MDCVII, data alla quale si può far risalire la costruzione l’edificio. Il primo documento nel quale è citato l’oratorio risale al 19 gennaio 1658 quando la confraternita si riunisce per decidere circa l’edificazione dell’altare. Le caratteristiche tipologiche del piccolo edificio sono quelle dell’edilizia religiosa minore del territorio. La facciata a capanna è completamente intonacata ad eccezione dei conci angolari dei cantonali. Al suo centro si apre il portale di ingresso incorniciato in arenaria e sovrastato da un oculo. L’edificio ha pianta rettangolare con l’asse maggiore orientato a ovest, lato sul quale si trova l’altare. Dalla fine degli anni Novanta dello scorso secolo, la parrocchia avviò un progetto di restauro dell’intero ambiente col fine di esporre l’importante gruppo equestre attribuito a Jacopo della Quercia fino ad allora conservato presso la casa canonica. Il 13 agosto 2012 viene inaugurata la sala espositiva che da quell’anno ospita alcune opere d’arte provenienti dalla prospicente chiesa di San Cassiano. Dal marzo del 2018 è museo parrocchiale.",
+        "artworks":[
+            {
+               "id":"0001",
+               "author":"Produzione islamica siciliana o tunisina",
+               "shortTitle":"Ceramica",
+               "title":"Bacino di ceramica con figura di falconiere a cavallo",
+               "year": "Fine X secolo - Prima metà XI secolo",
+               "description": "Il Bacino Ceramico, in stato frammentario, presenta una decorazione in verde e bruno. La figura che campeggia sul fondo rappresenta un falconiere in groppa al suo cavallo con il braccio piegato nell’atto di sostenere il falcone. Il bacino, impiegato per ornare la facciata della chiesa di San Cassiano di Controne, è stato rimosso e sostituito da una copia nel 1975. La circolazione di questi prodotti realizzati in ceramica è attestata in tutta l’area tirrenica e l’importazione a Lucca può essere avvenuta tramite Pisa, i cui contatti con il mondo islamico sono attestati almeno a partire dal X secolo. I bacini furono sfruttati per arricchire le strutture murarie di tocchi cromatici più duraturi di quelli ottenibili con la pittura e più economici di quelli che si potevano avere con tarsie di pietre policrome o con mosaici, per la cui composizione erano necessarie maestranze specializzate. Sebbene l’uso di decorare le chiese con questo tipo di ceramica sia ampiamente testimoniato, è piuttosto difficile trovarne con motivi decorativi di questa complessità."
+            },
+            {
+               "id":"0002",
+               "author":"Autore ignoto",
+               "shortTitle":"Croce",
+               "year": "Fine XIV secolo - Prima metà XV secolo",               
+               "title":"Croce astile processionale",
+               "description":"La croce di San Cassiano è realizzata in argento sbalzato, cesellato e dorato. La figura del Cristo, a tutto tondo, realizzata in più parti sbalzate e saldate insieme, è fissata su una controcroce decorata da smalti traslucidi di colore viola, blu, verde e giallo che realizzano un tralcio fiorito. Ai lati del Cristo la Madonna e San Giovanni Dolenti; in alto L’Eterno benedicente, in basso San Pietro (o San Leonardo). Sul lato opposto, al centro, l’Agnello Mistico, ai lati i simboli degli evangelisti (Il toro, simbolo dell’evangelista Luca; l’aquila, simbolo di Giovanni; il leone simbolo di Marco e l’angelo simbolo di Matteo). Tra la figura dell’agnello e quella dell’angelo un santo con un libro. Tra le molteplici croci dello stesso periodo che si trovano nelle chiese della lucchesia, la croce di San Cassiano è stata riconosciuta come “testimone praticamente unica in ambito lucchese di un gusto nordico forse mediato dalla presenza in città di artigiani oltremontani”. L’analisi della tecnica suggerisce una datazione a cavallo tra XIV e XV secolo."
+            },
+            {
+               "id":"0003",
+               "author":"Maestranza toscana",
+               "year": "Prima metà del XIV secolo",           
+               "shortTitle":"Annunciazione",
+               "title":"Annunciazione (Angelo annunciante e Madonna annunciata)",
+               "description":"L’autore dell’Annunciata e dell’Angelo, di cui non conosciamo il nome, e che convenzionalmente viene chiamato 'Maestro di San Cassiano', appare segnato dalla scultura gotica della Francia settentrionale. Il gruppo scultoreo, in legno di pioppo, fu reso noto da Carlo Lodovico Ragghianti nel 1908. Nel 1918 le sculture vennero inviate a Firenze per il primo restauro. Fecero ritorno a San Cassiano nel giugno del 1920. Durante questo restauro furono aggiunte le integrazioni in stucco e legno presenti su tutte e due le statue; particolarmente invasiva l’integrazione nel panneggio dell’avambraccio destro dell’Angelo. Le due opere furono restaurate una seconda volta tra il 1994 e il 1995. L’intervento permise di risalire a una stesura di colori se non originaria, antica: veste rossa con decorazioni azzurre, nere e oro, e un mantello bianco con bordi dorati per l’angelo, veste rossa e manto azzurro con bordi dorati per la Vergine. I capelli erano dorati. L’angelo è stato identificato come la prima scultura toscana sulla quale si riflette l’ideale di bellezza del 'dolce sorriso' francese. Questo 'sorriso', tratto distintivo della scultura gotica francese, spesso citato come 'sourire de Reims' è un sorriso fugace, che 'increspa appena le labbra chiuse'"              
+            },
+            {
+               "id":"0004",
+               "author":"Jacopo della Quercia, attribuito",
+               "shortTitle":"Cavallo",
+               "title":"San Martino a cavallo",
+               "year": "Primo decennio del XV secolo",               
+               "description":"Il gruppo ligneo, in tiglio, fu scoperto nel 1909 nei locali sottostanti l’Oratorio della Canonica unitamente alle due statue dell’Annunziazione, in una stanza ridotta a legnaia, coperto da una catasta di fascine. L’opera è uno dei pochi esemplari scultorei in legno raffigurante cavallo e cavaliere giunti a noi dal Medioevo. Generalmente attribuita a Jacopo della Quercia da un punto di vista stilistico deve essere collocata entro la prima decade del Quattrocento, tra l’esecuzione del sepolcro di Ilaria del Carretto e la prima fase dei lavori del dossale Trenta in San Frediano a Lucca. Al suo ritrovamento l’opera fu prima creduta un San Martino a cavallo, poi un Sant’Ansano e infine un San Cassiano. La sola raffigurazione che nell’iconografia usuale corrisponde alla nostra statua è quella del San Martino. I particolari dell’abbigliamento, evidenziati dal restauro, aiutano a definire l’iconografia di questo santo che generalmente presenta cavallo, spada e mantello. In Toscana ci sono molteplici dipinti nei quali, intorno alla metà del XIV secolo, San Martino veste un mantello rosso con la pelliccia di Vaio all’interno."
+            },
+            {
+               "id":"0005",
+               "author":"-",
+               "shortTitle":"Chiesa",
+               "title":"Chiesa di San Cassiano di Controne",
+               "year": "-",               
+               "description":"La chiesa di San Cassiano di Controne è la prima chiesa storicamente documentata nella Val di Lima, assieme alla pieve di Santa Giulia, dalla quale essa dipendeva poiché San Cassiano non è mai stata elevata al rango di Pieve. Il documento che ne attesta l’esistenza è stato redatto nel 772. L’edificio attuale è il risultato dell’ampliamento di una chiesa precedente della quale restano tracce all’esterno della chiesa. Nell’ampliamento è stata inglobata, all’interno del perimetro della chiesa, della quale occupa l’intero angolo anteriore sinistro, la grande torre campanaria, edificata nel 1030, come testimoniato da un’incisione su una pietra angolare. L’edificio ha insolitamente un impianto di tipo basilicale a tre navate, ordinariamente visibile nelle pievi. L’edificio oltre ad aver subito poche alterazioni, nella sua configurazione romanica, presenta un vasto repertorio di motivi ornamentali scolpiti, una pavimentazione originale a tarsia, nonché un bacino ceramico proveniente dal mondo islamico, datato al XI secolo, murato alla sommità della facciata. Al centro della facciata si apre il portale di ingresso, decorato con elementi zoomorfi e ad intreccio, sormontato da una lunetta nella quale è rappresentato Mosè che prega con le braccia alzate durante la battaglia contro gli Amaleciti. "
+            },
+            {
+               "id":"0006",
+               "author":"-",
+               "shortTitle":"Pavimento",
+               "title":"Pavimento chiesa",
+               "year": "Seconda metà XII secolo",               
+               "description":"Nella chiesa sono presenti due distinti piani pavimentali: uno originario, databile alla seconda metà del XII secolo, che si estende dalla facciata fino all’altezza delle due ultime colonne, l’altro rialzato che dalle due ultime colonne giunge al lato estremo dell’abside. L’originaria decorazione a tarsia marmorea differenzia la navata centrale da quelle laterali, enfatizzando l’asse longitudinale dell’edificio. Tutti gli elementi decorativi geometrici, sia a forma quadrata come le scacchiere, che a forma circolare, hanno un’implicazione simbolica. Le scacchiere poste all’entrata della chiesa rimandano al perenne contrasto tra bene e male. La scacchiera è una sorta di campo di battaglia dove il bene e il male sono destinati a scontrarsi e hanno la funzione di ammonire l’uomo che varca la soglia."
+            },
+            {
+               "id":"0007",
+               "author":"Francesco di Valdambrino, attribuito",
+               "shortTitle":"Sant’Ansano",
+               "title":"Sant’Ansano",
+               "year": "Inizio XV secolo",               
+               "description":"La statua è stata restaurata negli anni 90 del XX secolo. Rimosso lo spesso strato di ridipinture è stato possibile riconoscere, attraverso il volto, il trattamento dei capelli e del panneggio, i caratteri propri del linguaggio del giovane Francesco di Valdambrino. Attestato a Lucca, dove si forma e collabora con Jacopo della Quercia nei primi anni del Quattrocento, la sua firma, unitamente alla data (1403) è stata rinvenuta nella Madonna col Bambino di Palaia. Le strette relazioni stilistiche del Sant’Ansano con la Madonna di Palaia hanno permesso agli studiosi di attribuire la statua rappresentante il santo alla mano dello scultore."
+            },
+            {
+               "id":"0008",
+               "author":"Francesco di Valdambrino, attribuito",
+               "shortTitle":"Crocifisso",
+               "title":"Crocifisso",
+               "year": "Inizio XV secolo",               
+               "description":"Di qualità assai alta il crocifisso fu scoperto negli anni 90 del XX secolo in cattive condizioni e grossolanamente ridipinto. L’opera, attribuita a Francesco di Valdambrino, attesta la maturità espressiva che va raggiungendo lo scultore ed è stata inclusa dalla critica nel catalogo delle opere lucchesi dello scultore realizzate fra la fine del Trecento e il primo decennio del Quattrocento. Le “intense curiosità naturalistiche” evidenti nelle prime opere note di Francesco e anche in questo crocifisso, permettono di distinguerlo da altri autori a lui prossimi."
+            }
+        ]      
+   }
+}

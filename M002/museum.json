@@ -1,0 +1,190 @@
+{ 
+   "en":{
+         "id":"M002",
+         "version": 13,         
+         "uuid": "aaaaaaaa-bbbb-cccc-dddd-eeeeeeeeeeee",
+         "name":"Square of Miracles",
+         "gallery":["museo_benabbio_2.jpg", "museo_benabbio_3.jpg", "museo_benabbio_4.jpg"],
+         "description":"The Museum of Sacred Art of Benabbio is the result of the secular evolution of historical-artistic treasures collection belonging to the Parish of Santa Maria Assunta in Benabbio The museum organization project was born on July 18, 2010. The collection is now spread across three locations: the Oratory of the Holy Trinity, the main site of the museum, the Church of Santa Maria Assunta and the Oratory of the Blessed Sacrament. The works in the exhibition cover a time span that goes from the late Middle Ages, with the wooden statues attributed to the workshop of Piero d'Angelo, to the full Renaissance, represented by the illustrious sculptor Matteo Civitali, up to eighteenth-century Neoclassicism painting. The oratory of the Holy Trinity dates to 1581 and was implanted on a previous building, dating to around 1338. The environment consists of a single large space. The back wall has a slight curvature to recall an apse to house the wooden altar.The church was the headquarters of the Compagnia della Santissima Trinità which had the task of organizing the celebrations for the titular saint and of welcoming pilgrims, for this reason a small colonnade was created inside the building, which recalls the ancient porticoes of early Christian churches, intended precisely to welcome wayfarers and pilgrims.",
+         "artworks":[
+            {
+               "id":"0001",
+               "major": 1,
+               "minors": [1],
+               "year": "1394",    
+               "title":"Wooden statues representing annunciation",
+               "shortTitle":"Annunciation",
+               "author":"Piero d’Angelo di Guarniero",
+               "description":"In 1394 was commissioned to Pietro d'Angelo da Siena a wooden sculptural group representing the theme of the Annunciation for the Church of Santa Maria Assunta. The sculptor was the father of the more famous Jacopo della Quercia and he completed the work with the help of his sons. Unfortunately, the state of conservation of the works at the beginning of the 1900s was very bad: various layers of non-authentic paint and attempts at restoration can be seen. It is speculated that some damage was also caused by the custom of dressing the statues for solemn celebrations and for this reason the arms had become removable. The artist's innovative style can be recognized above all in the development of the drapery, whose folds are very expanse especially in the lower half of the body, a drapery of this type hides the anatomical shapes in such a way as to enhance their status of purity and celestial elevation. The two characters hint at a small movement, as if to enter into dialogue with each other. Another interesting element is the fact that the clothes worn by the woman are not old-fashioned, but those typical of the noblewomen of the Tuscan courts of the time, in particular of the brides who used to wear the red dress; the angel who represents the divinity instead wears curial clothes.",
+               "gallery":[ "0001/01.jpg", "0001/02.jpg", "0001/03.jpg", "0001/04.jpg","0001/05.jpg","0001/06.jpg"]
+            },
+            {
+               "id":"0002",
+               "major": 2,
+               "minors": [1],
+               "title":"Saint michael the archangel",
+               "shortTitle":"St. Micheal",
+               "year": "End of the 14th century",    
+               "author":"Workshop of Piero d'Angelo di Guarniero",
+               "description":"Wooden sculpture in the round, whose iconography is typical of Saint Michael the Archangel brandishing a sword. The weapon has been lost. The sculpture was made from a single block of wood; probably the statue rested on a base, that has been lost, with the depiction of a snake. The latter was recently replaced by a neutral wooden base. On the back of the statue the interlocking holes for the wings, now absent, and the rings used during transport in processions and for exhibitions in the church are clearly visible. The archangel wears a cloak and robes richly decorated with polychrome pictorial motifs. The Saint Michael was recovered from the church of the castle of Benabbio in very different conditions from the current ones, in fact a layer of plaster had been spread over the original level of polychromy to change the shape of the saint's robe, making it more aesthetically pleasing for the period. The restoration made it possible to recover the fourteenth-century appearance of the statue.",
+               "gallery":[ "0002/01.jpg", "0002/02.jpg", "0002/03.jpg","0002/04.jpg","0002/05.jpg"]
+            },
+            {
+               "id":"0003",
+               "major": 3,
+               "minors": [1],
+               "year": "18th century",    
+               "title":"Wooden altar",
+               "shortTitle":"Altar",
+               "author":"Lucca workshop",
+               "description":"The biggest change made in 1500 to the Oratorio della Santissima Trinità was the creation of a single room by opening the wall that separated the two rooms, creating a small portico that recalled the ancient function of welcoming of the small oratories spread throughout the area since ancient times. Furthermore, the end wall was slightly curved so that it resembled an apse and could house a new wooden altar which, however, went to cover the underlying frescoes which are now visible only in the central part of the altar. The original frescoes probably date back to 1606, but with the insertion of the new wooden altar in the Baroque period, the central part which was also the most significant was perhaps replaced by a painted altarpiece that reproduced its original appearance (entering in the exhibition hall on the left). The altarpiece by an unknown author represents the Trinity: the father holding the cross, the crucified son and the dove of the Holy Spirit, all three represented in a perfectly frontal manner to highlight their importance; at the foot of the cross are the patrons of the work represented in profile because they are less important in the religious hierarchy.",
+               "gallery":[ "0003/01.jpg", "0003/02.jpg","0003/03.jpg"]
+            },
+            {
+               "id":"0004",
+               "major": 4,
+               "minors": [1],
+               "year": "End of the 15th century",    
+               "title":"Eucharistic tabernacle",
+               "shortTitle":"Tabernacle",
+               "author":"Matteo Civitali",
+               "description":"The Civitali’s style of the tabernacle is recognizable also in comparison with other works of the same genre: it has the shape of an aedicula, in the center there is the oculus which served as a monstrance for the consecrated host, surrounded by a radiant sun that refers to an ancient tradition linked to the Eucharist which usually characterized small liturgical furnishings in metal, but here evidently the intention was to combine the function of tabernacle and monstrance in a single monumental and solemn object. The oculus is surrounded by festoons and decorative garlands that recall the celebratory bas-reliefs of the Roman period, on the sides there are two pilasters surmounted by candelabra that recall a grotesque motif that was very popular starting from 1480 when was found in Rome the Nero's Domus Aurea. The architrave houses a cherub that is very similar to those that Civitali installed on the facade of the Cathedral of Lucca, an element that has also been very useful for making a certain attribution in recent years. The lunette above the architrave consists of a shell containing the symbols of the Eucharist : the chalice and the host, blood and body of Christ. On the base we also find engraved the date in which the work was placed to decorate the facade of the church of Saints Philip and James in the eighteenth century.",
+               "gallery":[ "0004/01.jpg", "0004/02.jpg"]
+            },
+            {
+               "id":"0005",
+               "major": 5,
+               "minors": [1],
+               "year": "17th century",    
+               "title":"Still-lives",
+               "shortTitle":"Still-lives",
+               "author":"Girolamo Scaglia",
+               "description":"The still life of Girolamo Scaglia, in dark tones and in the meditated use of the light, is part of the Caravaggio pictorial tradition. The study of plants and animals, the presence of an object such as the violin which makes the composition synesthetic recalls the works of Michelangelo Merisi da Caravaggio created for Cardinal del Monte and those of his followers such as Paolini from Lucca. The study of everyday reality and of the natural and vegetable world is mixed, in works like this one, with symbolic meanings concerning the concepts of life and death, sin and virtue. The curious presence of the cat is due to an aesthetic taste and a mimesis of the nature in the context of the reconstruction of a scene that was visible in any house. Before being exhibited in the museum, the work was kept in the parish rectory. This work was produced in tandem with the still life with flowers by the same artist; the two paintings share style and dimensions.",
+               "gallery":[ "0005/01.jpg", "0005/02.jpg"]
+            },
+            {
+               "id":"0006",
+               "major": 6,
+               "minors": [1],
+               "year": "14th century",    
+               "title":"Church of Santa Maria Assunta",
+               "shortTitle":"Church",
+               "author":"-",
+               "description":"Longitudinal plan building with three naves probably of late medieval foundation. The church is built in blocks of boulder sandstone, a typical stone of the place, arranged using the coused rubble masonry technique. The interior of the church is divided into three naves of which the central one is twice the size of the lateral ones. All three have a trussed roof, i.e. a structure made up of wooden planks that support a gabled roof. The colonnades that divide each of the naves from the others are composed of a constant rhythm of a pillar with a square base and two columns with a round base, taking up the typical alternation of sounds and accents of Latin and Greek poetry as a reference to the classical tradition. The capitals are of a composite order, therefore they are not assimilable to a single style, but present elements from different traditions, the acanthus leaves of the Corinthian order recur often, sometimes represented in a simple way, while other times doubled. The journey to discover the art treasures proceeds inside the Church!",
+               "gallery":[ "0006/01.jpg", "0006/02.jpg", "0006/03.jpg"]
+            },
+            {
+               "id":"0007",
+               "major": 7,
+               "minors": [1],
+               "year": "1469",    
+               "title":"Triptych with madonna, babyjesus and saints",
+               "shortTitle":"Triptych",
+               "author":"Baldassarre di Biagio",
+               "description":"The work that adorned the high altar of the church is composed of three tabernacles with painted tables installed on a gilded and carved wooden structure in late Gothic style. In the centre there are the Virgin and Child enthroned. On the right side we find: St. Peter (keys) and St. Michael (wings and dragon), while on the left St. John the Evangelist (table and quill pen) and St. Bartholomew (knife and book). In the aedicule of the central cusp there is a Christ Pantocrator holding in his hand a book depicting his eternity representing the Greek letters alpha and omega (beginning and end of the world). In the two lateral cusps is represented the Annunciation: on the left one in fact there is the angel Gabriel while on the right one the Virgin. The lower part of the work takes the name of predella and shows the scene of the Assumption in the centre, in which the Virgin is taken to heaven by two angels while she gives St. Thomas her girdle: a legend written in the apocryphal gospel attributed to St. James. In the lateral rings there are two angels holding the plaque bearing the inscription OPA (which means that the tryptyc was a commissioned work), while in the lateral predellas are represented half-length 14 saints.",
+               "gallery":[ "0007/01.jpg", "0007/02.jpg"]
+            },
+            {
+               "id":"0008",
+               "major": 8,
+               "minors": [1],
+               "year": "1773",    
+               "title":"The assumption of the virgin",
+               "shortTitle":"Assumption",
+               "author":"Giuseppe Antonio Luchi \"Il Diecimino\"",
+               "description":"In the centre of the painting, we see the Virgin coming out of the marble sarcophagus and ascending to the throne, with typical characteristics of Venetian colourism. Her robes are red and blue to represent her demigod nature. The two saints standing at the feet of the Virgin are St. Anthony of Padua, recognizable because he wears the typical clothes of the Franciscan order (brown habit tied at the waist by a cord with knots), as well as bare feet, tonsure and flowers of lily symbol of purity. At his feet a cloud of gray smoke is visible, because Saint Anthony is having a vision, in fact he holds baby Jesus in his arms, as happened in one of his mystical retreats. The other saint is San Rocco, a pilgrim saint very famous for his miracles of healing from pestilential diseases. One of his recognizable attributes is the dog, symbol of the protection of divine Providence, which has a loaf of bread in its mouth, emblem of famine and of the Saint's fidelity to God. We then recognize the pilgrim's habit, shifted on the thigh to show the plague, the short cloak called sanrocchino and finally the pumpkin that we see behind his shoulders, used by the Pilgrims for water supply.",
+               "gallery":[ "0008/01.jpg"]
+            },
+            {
+               "id":"0009",
+               "major": 9,
+               "minors": [1],
+               "year": "1564 approx.",    
+               "title":"Baptismal font",
+               "shortTitle":"Font",
+               "author":"-",
+               "description":"The baptismal font was granted to the church of Santa Maria Assunta in 1564, after a long struggle for independence from the parish church of Controneria. Historical sources narrate that the concession took place because during the journey that families were forced to make to bring their children to receive baptism, many children died from the cold during the winter. When a woman lost both her children crossing the Lima torrent, the request of the Benabbio citizens to become independent was accepted. In fact, it is said that the children's cemetery, for children not yet baptized, was in front of the facade of the church. The current font from 1556 has the form of a tympanum aedicule with columns of the Doric order, inside the aedicule we find a half-relief representation of the baptism of Christ in a niche surmounted by a shell (associated with the iconography of the baptism) and by two cherubs in the corners.",
+               "gallery":[ "0009/01.jpg", "0009/02.jpg"]
+            }           
+         ]
+   },
+   "it":{
+      
+        "name":"Piazza dei Miracoli",
+        "description":"La Piazza dei Miracoli è un'ampia distesa di prato verde su cui sorgono i 4 capolavori di arte monumentale medievale celebrati in tutto il mondo: il famoso Campanile o Torre Pendente, il Camposanto, il Battistero e il Duomo.",
+        "artworks":[
+            {
+               "id":"0001",
+               "year": "1394",    
+               "title":"Annunciazione lignea",
+               "shortTitle":"Annunciazione",
+               "author":"Piero d’Angelo di Guarniero",
+               "description":"Nel 1394 a Pietro d’Angelo da Siena viene commissionato per la Chiesa di Santa Maria Assunta un gruppo scultoreo ligneo con il tema dell’annunciazione. Lo scultore era padre del più celebre Jacopo della Quercia e con l’aiuto dei suoi stessi figli lo portò a termine. Purtroppo, lo stato di conservazione delle opere all’inizio del ‘900 era pessimo: si vedono vari strati di vernice non autentici e tentativi di restauro. Si ipotizza che alcuni danni furono provocati anche dall’uso di vestire le statue per le feste solenni e per questo motivo le braccia erano divenute rimovibili. Lo stile innovativo dell’artista è rintracciabile soprattutto nell’andamento dei panneggi, le cui pieghe sono molto distese soprattutto nella metà inferiore del corpo, un andamento di questo tipo va a nascondere le forme anatomiche in modo tale da esaltarne lo status di purezza e di elevazione celeste. I due personaggi accennano un piccolo movimento, come a mettersi in dialogo l’una con l’altro. Un altro elemento interessante è il fatto che le vesti portate dalla donna non siano all’antica, bensì quelle tipiche delle nobildonne delle corti toscane dell’epoca, in particolare delle spose che usavano portare l’abito rosso; l’angelo che rappresenta la divinità indossa invece abiti curiali."
+            },
+            {
+               "id":"0002",
+               "year": "Fine del XIV secolo",    
+               "author":"Bottega di Piero d’Angelo di Guarniero",
+               "title":"San Michele Arcangelo",
+               "shortTitle":"S. Michele",
+               "description":"Scultura lignea a tutto tondo, iconograficamente riconducibile a San Michele arcangelo nell’atto di brandire la spada. L’arma ad oggi è andata perduta. La scultura è stata realizzata a partire da un unico blocco di legno; si è ipotizzato che la statua poggiasse su un basamento con la raffigurazione di un serpente andato perduto. Quest’ultimo è stato sostituito in tempi recenti da un basamento neutro in legno. Sul retro della statua sono ben visibili i fori d’incastro per le ali, oggi assenti, e gli anelli usati durante i trasporti in processione e per le esposizioni in chiesa. L’arcangelo indossa un mantello e delle vesti riccamente decorate con motivi pittorici policromi. Il San Michele è stato recuperato dalla chiesa del castello di Benabbio in condizioni molto diverse da quelle attuali, infatti sopra il livello originario di policromia era stato steso uno strato di gesso per cambiare la conformazione della veste del santo, rendendolo più piacevole per l’estetica del periodo. Il restauro ha reso possibile il recupero dell’aspetto trecentesco della statua."
+            },
+            {
+               "id":"0003",
+               "year": "XVIII secolo",    
+               "author":"Bottega lucchese ",
+               "title":"Altare ligneo",
+               "shortTitle":"Altare",
+               "description":"La più grande modifica apportata nel 1500 all’Oratorio della Santissima Trinità fu la creazione di un unico ambiente tramite l'apertura della parete che separava le due stanze, creando un piccolo porticato che ricordasse la funzione antica di accoglienza dei piccoli oratori diffusi in tutta la zona sin dall’antichità. Inoltre, fu leggermente curvata la parete terminale affinché ricordasse un’abside e potesse ospitare un nuovo altare ligneo che andò però a coprire gli affreschi sottostanti che ora sono visibili soltanto nella parte centrale dell’altare. Gli affreschi originali sono probabilmente risalenti al 1606, ma con l’inserimento del nuovo altare ligneo in epoca barocca, la parte centrale che era anche la più significativa fu forse sostituita con una pala d’altare dipinta che ne riproducesse l’aspetto originale (entrando nella sala espositiva sulla sinistra). La pala di autore ignoto rappresenta la Trinità: il padre che regge la croce, il figlio crocifisso e la colomba dello Spirito Santo tutti e tre rappresentati in maniera perfettamente frontale per mettere in evidenza la loro importanza; ai piedi della croce si trovano poi i committenti dell’opera rappresentati di profilo perché meno importanti nella gerarchia religiosa."
+            },
+            {
+               "id":"0004",
+               "year": "Fine del XV secolo",    
+               "author":"Matteo Civitali",
+               "title":"Tabernacolo eucaristico",
+               "shortTitle":"Tabernacolo",
+               "description":"Il tabernacolo è riconoscibile nel suo stile civitalesco anche al confronto con altre opere dello stesso genere: ha la forma di un’edicola, al centro si trova l’oculo che doveva servire da ostensorio per l’ostia consacrata, circondata da un sole raggiante che rimanda ad un’antichissima tradizione legata all'eucaristia che solitamente caratterizzava piccole suppellettili liturgiche in metallo, ma qui evidentemente si voleva unire la funzione di tabernacolo e di ostensorio in un solo oggetto monumentale e solenne. L’oculo è circondato da festoni e ghirlande decorative che richiamano i bassorilievi celebrativi di epoca romana, ai lati si trovano due lesene sormontate da candelabri che richiamano un motivo “a grottesca” molto in voga a partire dal 1480 quando a Roma fu ritrovata la Domus Aurea di Nerone. L’architrave ospita un cherubino che è molto simile a quelli che Civitali mise in opera nella facciata del Duomo di Lucca, un elemento che è stato molto utile anche per effettuare un’attribuzione certa in anni recenti. La lunetta che sovrasta l’architrave è costituita da una conchiglia contenente i simboli dell’eucarestia ovvero il calice e l’ostia: sangue e corpo di Cristo. Sulla base troviamo incisa anche la data in cui l’opera fu posta a decorazione della facciata della chiesa dei santi Filippo e Giacomo nel XVIII secolo."
+            },
+            {
+               "id":"0005",
+               "year": "XVII secolo",    
+               "author":"Girolamo Scaglia",
+               "title":"Nature morte",
+               "shortTitle":"Nature Morte",
+               "description":"La natura morta di Girolamo Scaglia, nei toni scuri e nella meditata gestione del lume, si inserisce nella tradizione pittorica caravaggesca. Lo studio del dato vegetale e animale, la presenza di un oggetto come il violino che rende la composizione sinestetica richiama le opere di Michelangelo Merisi da Caravaggio realizzate per il cardinal del Monte e quelle dei seguaci come il lucchese Paolini. Lo studio della realtà del quotidiano e del mondo naturale e vegetale si mescola, in opere come questa, a significati simbolici concernenti i concetti di vita e morte, peccato e virtù. La curiosa presenza del gatto è dovuta a gusto estetico e di mimesi della natura nel contesto di una ricostruzione di una scena che fosse visibile in una casa qualsiasi. Prima di essere esposta nel museo l’opera è stata conservata nella canonica della parrocchia. Quest’opera è stata prodotta in coppia con la Natura morta con fiori dello stesso artista; i due quadri condividono stile e dimensioni."
+            },
+            {
+               "id":"0006",
+               "year": "XIV secolo",    
+               "author": "-",
+               "title": "Chiesa di Santa Maria Assunta",
+               "shortTitle": "Chiesa",
+               "description": "Edificio a pianta longitudinale a tre navate probabilmente di fondazione bassomedievale. La chiesa è costruita in blocchi di arenaria macigno, pietra tipica del luogo, disposti a filaretto. L’interno della chiesa è suddiviso in tre navate di cui quella centrale è grande il doppio di quelle laterali. Tutte e tre presentano una copertura a capriate, ovvero una struttura composta da assi lignee che sorreggono un tetto a capanna. I colonnati che suddividono ognuna delle navate dalle altre sono composti da un ritmo costante di un pilastro a base quadrata e due colonne base rotonda, riprendendo la tipica alternanza di suoni e accentazioni tipiche della poesia latina e greca come richiamo alla tradizione classica. I capitelli sono di ordine composito, quindi non sono assimilabili ad un solo stile, ma presentano elementi provenienti da tradizioni diverse, molto ricorrenti sono le foglie di acanto dell’ordine corinzio a volte riportate in maniera semplice, mentre altre volte subiscono un raddoppiamento. L’itinerario alla scoperta dei tesori d’arte procede all’interno della Chiesa!."
+            },
+            {
+               "id":"0007",
+               "year": "1469",    
+               "author":"Baldassarre di Biagio",
+               "title":"Trittico con madonna, gesù bambino e santi",
+               "shortTitle":"Trittico",
+               "description":"La tavola che ornava l’altare maggiore della chiesa è composta da tre tabernacoli con tavole dipinte montate su una struttura lignea dorata e intagliata in stile tardo gotico. Al centro si trova la vergine col bambino in trono. Ai due lati troviamo: a destra S. Pietro (chiavi) e S. Michele (ali e drago), mentre a sinistra S. Giovanni evangelista (tavola e penna d’oca) e S. Bartolomeo (coltello e libro). Nell’edicola della cuspide centrale c’è una raffigurazione di Cristo Pantocratore che tiene in mano un libro raffigurante la sua eternità con le lettere greche alfa e omega (inizio e fine del mondo). Nelle due cuspidi laterali invece è rappresentata l’annunciazione, su quella di sinistra infatti troviamo l’angelo Gabriele mentre su quella destra la vergine annunziata. La parte inferiore dell’opera prende il nome di predella e riporta al centro la scena dell’Assunzione, in cui la vergine è portata in cielo da due angeli mentre dona a San Tommaso la sua cintola: una leggenda scritta nel vangelo apocrifo attribuito a San Giacomo. Nei piastrini laterali si trovano due angeli che tengono la targa che riporta la scritta OPA (committenza), mentre nelle predelle laterali si trovano altri 14 Santi a mezzo busto."
+            },
+            {
+               "id":"0008",
+               "year": "1773",    
+               "author":"Giuseppe Antonio Luchi \"Il Diecimino\"",
+               "title":"Assunzione della Vergine",
+               "shortTitle":"Assunzione",
+               "description":"Al centro del quadro vediamo spiccare, con caratteristiche tipiche del colorismo veneziano, la vergine che ascende al trono uscendo dal sarcofago in marmo. Le sue vesti sono di colore rosso e blu per rappresentare la sua natura semidivina. I due santi che stanno ai piedi della Vergine sono Sant’Antonio da Padova riconoscibile, perché indossa gli abiti tipici dell’ordine francescano (saio marrone legato in vita dal cordone con i nodi), oltre che dai piedi scalzi, dalla tonsura e dai fiori di giglio tipici della purezza. Ai suoi piedi è visibile una nube di fumo grigio, perché Sant’Antonio sta avendo una visione, infatti stringe fra le braccia il bambino Gesù, come accade in uno dei suoi ritiri mistici. L’altro santo è San Rocco, un santo pellegrino molto famoso per i suoi miracoli di guarigione dalle malattie pestilenziali. Uno dei suoi attributi riconoscibili è il cane, simbolo della protezione della Provvidenza divina, che ha in bocca un tozzo di pane, emblema della carestia e della fedeltà del santo verso Dio. Riconosciamo poi l'abito da pellegrino, spostato sulla coscia per mostrare la piaga della peste, il mantello corto detto proprio sanrocchino e infine la zucca che vediamo dietro le sue spalle, usata dai Pellegrini per l’approvvigionamento d’acqua."
+            },
+            {
+               "id":"0009",
+               "year": "1564 ca.",    
+               "author":"-",
+               "title":"Fonte battesimale",
+               "shortTitle":"Fonte",
+               "description":"Il fonte battesimale fu concesso alla chiesa di Santa Maria Assunta nel 1564, dopo una lunga lotta per l’indipendenza dalla pievania della Controneria. La storia narra che la concessione avvenne perché durante il viaggio che le famiglie erano costrette a compiere per portare i bambini a ricevere il battesimo, moltissimi piccoli, ancora in fasce, morivano per il freddo durante l’inverno. Quando una donna perse entrambi i figli attraversando il torrente Lima venne accettata la richiesta dei benabbini di divenire indipendenti. Davanti alla facciata della chiesa si dice infatti che si trovasse il cimitero infantile, per i bambini non ancora battezzati. Il fonte odierno del 1556 ha la forma di un’edicola timpanata con colonne di ordine dorico, all’interno dell’edicola troviamo una rappresentazione a mezzo rilievo del battesimo di Cristo in una nicchia sormontata da una conchiglia (associabile essa stessa all’iconografia del battesimo) e da due cherubini negli angoli."
+            }
+        ]      
+   }
+}
