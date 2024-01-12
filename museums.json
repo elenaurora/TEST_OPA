@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "museums": [ 
         {
             "id": "M002",
@@ -7,15 +7,7 @@
             "name": "Piazza dei Miracoli",
             "location" : "Piazza dei Miracoli",
             "coordinates": [10.603375652061544, 43.99854668885396]
-        },
-        {
-            "id": "M001",
-            "version": 12,
-            "name": "Museo OPA",
-            "location" : "Museo OPA",
-            "coordinates": [10.634381, 44.037471]
         }
-    ]
 }
     
     
