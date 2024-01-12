@@ -10,12 +10,13 @@
         }
 
         {
-            "id": "M003",
+            "id": "M001",
             "version": 12,
             "name": "Museo OPA",
             "location" : "Museo OPA",
             "coordinates": [10.603375652061544, 43.99854668885396]
         }
+    ]
 }
     
     
