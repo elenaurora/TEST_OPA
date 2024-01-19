@@ -3,8 +3,8 @@
     "museums": [ 
         {
             "id": "M002",
-            "version": 20,
-            "name": "Visita la piazza",
+            "version": 21,
+            "name": "Visito la piazza",
             "location" : "Piazza dei Miracoli",
             "coordinates": [10.603375652061544, 43.99854668885396]
         }
